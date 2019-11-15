@@ -12,10 +12,3 @@ Long, Lat, heat flow (mW/m3), Pn-derived Moho temperature (C) (Schutt et al 2018
 
 Note that Surface heat production used aerogamma spectra and only reasonably accounts for the upper few meters of earth and was not used for the final conclusions of the Berry et al.
 
-US_topo.llz
-
-Arc-second topography of the United States.
-
-Column order:
-
-Long, Lat, Elevation (m)
